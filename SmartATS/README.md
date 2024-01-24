@@ -26,7 +26,7 @@ cd [project-directory]
 `
 3. Install requirements.txt  
 `
-pip install requirements.txt
+pip -r install requirements.txt
 `
 4. Set up environment variable  
 `
