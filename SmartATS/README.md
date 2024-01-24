@@ -16,31 +16,30 @@ SmartATS is a streamlit based application that help job seekers to align their r
 
 ### Installation Steps
 
-1. Clone the repo 
+1. Clone the repo   
 `
-git clone [repository-url]
+git clone https://github.com/sathyanaravind/LLM-Apps/tree/main/SmartATS
 `
-2. Navigate to the project directory 
+2. Navigate to the project directory   
 `
 cd [project-directory]
-
 `
-3. Install requirements.txt
+3. Install requirements.txt  
 `
 pip install requirements.txt
 `
-4. Set up environment variable
+4. Set up environment variable  
 `
 GOOGLE_API_KEY=your_api_key_here
 `
 
 ### Usage
-1. Start the streamlit app
+1. Start the streamlit app  
 `
 streamlit run app.py
 `
-2. Open the app
-3. Using the app
+2. Open the app  
+3. Using the app  
 - enter the job description
 - upload your resume
 - click the submit button
