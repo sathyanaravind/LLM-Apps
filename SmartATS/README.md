@@ -1,7 +1,8 @@
 ## Smart ATS 
 
-<img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/SmartATS/ats.gif" width="500" height="300" />
-
+<div align="center">
+    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/SmartATS/ats.gif" alt="Webapp Demo GIF" width="500" height="300" />
+</div>
 
 SmartATS is a streamlit based application that help job seekers to align their resumes with specific job descriptions  
 
