@@ -1,7 +1,7 @@
 ## GeminiPro Multimodel Q&A with text and image
 
 <div align="center">
-    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/GeminiPro-Mutlimodal-Q&A/geminiprovisiondemo.gif" alt="Webapp Demo GIF" width="500" height="300" />
+    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/GeminiPro-Mutlimodal-Q&A/geminiprovisiondemo.gif" alt="Webapp Demo GIF" width="500" height="400" />
 </div>
 
 GeminiPro Multimodel Q&A with text and image
