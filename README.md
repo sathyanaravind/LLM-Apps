@@ -4,8 +4,8 @@ A repository containing large language model powered applications
 Tech Stack
 
 # 🦜️🔗 LangChain 
-🤗 HuggingFace
-<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:50px"></img>
+🤗 HuggingFace  
+<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-top:30px"></img> streamlit
 
 
 
