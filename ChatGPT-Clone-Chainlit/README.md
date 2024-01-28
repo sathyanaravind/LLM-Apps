@@ -1,7 +1,7 @@
 ## ChatGPT Clone Streamlit
 
 <div align="center">
-    <img src="https://github.com/sathyanaravind/LLM-Apps/main/ChatGPT-Clone-Chainlit/chatgptclone.gif" alt="Webapp Demo GIF" width="500" height="300" />
+    <img src="https://github.com/sathyanaravind/LLM-Apps/blob/main/ChatGPT-Clone-Chainlit/chatgptclone.gif" alt="Webapp Demo GIF" width="500" height="300" />
 </div>
 
 
