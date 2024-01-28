@@ -14,4 +14,8 @@ SmartATS is a streamlit based application that help job seekers to align their r
 [GeminiPro-Mutlimodal-Q&A](https://github.com/sathyanaravind/LLM-Apps/tree/main/GeminiPro-Mutlimodal-Q%26A)  
 GeminiPro Multimodel Q&A with text and image
 
+[ChatGPT Clone Streamlit](https://github.com/sathyanaravind/LLM-Apps/edit/main/ChatGPT-Clone-Chainlit)  
+ChatGPT Clone using the ChainLit and the OpenAI GPT-3.5 Turbo model. 
+
+
 
