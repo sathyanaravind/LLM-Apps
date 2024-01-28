@@ -22,7 +22,7 @@ OPENAI_API_KEY=your-api-key-here
 `
 Replace your-api-key-here with your actual OpenAI API key.
 
-Usage
+## Usage
 
 Open a terminal or command prompt and navigate to the directory where the script is located.
 
