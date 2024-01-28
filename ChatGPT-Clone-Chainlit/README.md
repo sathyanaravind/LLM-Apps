@@ -1,5 +1,9 @@
 ## ChatGPT Clone Streamlit
 
+<div align="center">
+    <img src="https://github.com/sathyanaravind/LLM-Apps/main/ChatGPT-Clone-Chainlit/chatgptclone.gif" alt="Webapp Demo GIF" width="500" height="300" />
+</div>
+
 
 ChatGPT Clone using the ChainLit and the OpenAI GPT-3.5 Turbo model. The chatbot assists users in generating responses to their input messages.
 
