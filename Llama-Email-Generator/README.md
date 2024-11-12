@@ -2,6 +2,8 @@
 
 This project is a **Cold Email Generator** that helps users create personalized cold emails for job applications based on job listings. By analyzing job descriptions, it generates tailored emails highlighting relevant experience and skills, streamlining the process of reaching out to potential employers.
 
+[Cold Email Generator Demo](email.mp4)
+
 ## Features
 - **Job Data Extraction**: Input a job listing URL to fetch and analyze job details.
 - **Personalized Email Generation**: Automatically generates a customized email based on job requirements and user skills.
