@@ -10,7 +10,6 @@ This project is a **Cold Email Generator** that helps users create personalized 
 ## Technologies Used
 - **Streamlit**: Used to build the interactive web application.
 - **LangChain Community Document Loaders**: For loading and extracting text from job URLs.
-- **Chains**: A tool for handling and processing job description data.
 - **Langchain**: LLM Orchestrator
 - **Chromadb**: Open source vector database
 ## Installation
