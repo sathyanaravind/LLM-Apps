@@ -1,7 +1,7 @@
 # LLM-Apps
 A repository containing large language model powered applications
 
-Tech Stack
+##Tech Stack
 
 ### 🦜️🔗 LangChain | 🤗 HuggingFace | <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" width="50" height="30" ></img> streamlit | 🦙📚 LlamaIndex |  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker logo" width="50" height="30"> Docker |  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="50" height="30"> Python | 
  
