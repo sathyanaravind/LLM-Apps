@@ -20,7 +20,7 @@ GeminiPro Multimodel Q&A with text and image
 [ChatGPT Clone Chainlit](https://github.com/sathyanaravind/LLM-Apps/edit/main/ChatGPT-Clone-Chainlit)  
 ChatGPT Clone using the ChainLit and the OpenAI GPT-3.5 Turbo model. 
 
-[LLama-3.1 Automatic Email Generator]([https://github.com/sathyanaravind/LLM-Apps/edit/main/ChatGPT-Clone-Chainlit](https://github.com/sathyanaravind/LLM-Apps/tree/main/Llama-Email-Generator))  
+[LLama-3.1 Automatic Email Generator](https://github.com/sathyanaravind/LLM-Apps/tree/main/Llama-Email-Generator)  
 Email generator webapp using Llama-3.1 LLM 
 
 
